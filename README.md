@@ -6,5 +6,6 @@ This application is developed to efficiently manage Room Bookings, Cancellations
 <img width="1920" height="1004" alt="Screenshot 2026-03-12 142144" src="https://github.com/user-attachments/assets/04d106b9-baac-4049-8409-319b91dd031f" />
 <img width="1920" height="1003" alt="Screenshot 2026-03-12 142435" src="https://github.com/user-attachments/assets/0e0f80d0-5d87-4354-a2a6-ccabeef7aab9" />
 <h3><b>Room Types</b></h3>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57a7366b-8159-4b1e-8ece-c1d4ebef8adc" />
+<img width="1920" height="1000" alt="Screenshot 2026-03-12 142703" src="https://github.com/user-attachments/assets/355ccb96-aaad-4693-be0b-06826d6c0b19" />
+
 
