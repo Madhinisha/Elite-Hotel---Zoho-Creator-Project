@@ -4,4 +4,5 @@ This application is developed to efficiently manage Room Bookings, Cancellations
 ## ✨ Screenshots
 <h3><b>Home Page</b></h3>
 <img width="1920" height="1004" alt="Screenshot 2026-03-12 142144" src="https://github.com/user-attachments/assets/04d106b9-baac-4049-8409-319b91dd031f" />
+<img width="1920" height="1003" alt="Screenshot 2026-03-12 142435" src="https://github.com/user-attachments/assets/0e0f80d0-5d87-4354-a2a6-ccabeef7aab9" />
 
