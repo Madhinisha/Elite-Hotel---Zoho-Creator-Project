@@ -10,6 +10,11 @@ This application is developed to efficiently manage Room Bookings, Cancellations
 <h3><b>Standard Rooms</b></h3>
 <img width="1920" height="897" alt="Screenshot 2026-03-12 143007" src="https://github.com/user-attachments/assets/f5c57de4-eda0-4a40-938d-d3af59a734f4" />
 <img width="1920" height="420" alt="Screenshot 2026-03-12 143645" src="https://github.com/user-attachments/assets/9632c748-b93f-4185-9fbe-3d72dfc3a127" />
+<h3><b>Deluxe Rooms</b></h3>
+<img width="1920" height="900" alt="Screenshot 2026-03-12 144055" src="https://github.com/user-attachments/assets/56de3c70-240e-4098-9419-0d8e954efc12" />
+<img width="1920" height="411" alt="Screenshot 2026-03-12 144100" src="https://github.com/user-attachments/assets/962b7c37-a7d4-450b-96a9-25387f9d9f03" />
+<h3><b>Suite Rooms</b></h3>
+<h3><b>Dashboard</b></h3>
 
 
 
